@@ -1,0 +1,15 @@
+{
+  "name": "codetrash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dataset.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "author": "PrajjwalDatir",
+  "license": "MIT",
+  "dependencies": {
+    "yt-search": "^2.9.0"
+  }
+}
